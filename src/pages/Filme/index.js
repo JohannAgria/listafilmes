@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { useParams, useNavigate, replace } from "react-router-dom"
+import { useParams, useNavigate, } from "react-router-dom"
 import api from "../../services/api";
 import './filme.css'
 
